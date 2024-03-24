@@ -48,10 +48,6 @@ Constraints:
 
 """
 
-
-
-
-
 # Definition for a Node.
 class Node:
     def __init__(self, x, next=None, random=None):
