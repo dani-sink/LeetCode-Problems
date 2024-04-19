@@ -16,4 +16,6 @@
 
     . 5 "Stack" Problems
 
-    . 6 "Linked-Lists" Problems
+    . 11 "Linked-Lists" Problems
+
+    . 4 "General Binary Tree" Problems
