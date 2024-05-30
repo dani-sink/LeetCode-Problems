@@ -11,11 +11,13 @@
     . 5 "Matrix" Problems
 
     . 4 "Sliding-Window" Problems
-    
+
     . 5 "Two-Pointers" Problems
 
     . 5 "Stack" Problems
 
     . 11 "Linked-Lists" Problems
 
-    . 4 "General Binary Tree" Problems
+    . 14 "General Binary Tree" Problems
+
+## for a total of 81 problems
