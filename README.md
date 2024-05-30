@@ -20,4 +20,8 @@
 
     . 14 "General Binary Tree" Problems
 
-## for a total of 81 problems
+    . 4 "Binary Tree BFS" Problems
+
+    . 3 "Binary Search Tree" Problems
+
+## for a total of 88 problems
